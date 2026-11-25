@@ -3,7 +3,7 @@
 A full-stack mini helpdesk where **users raise support tickets** and **admins manage and resolve them**.
 Built with Node.js, Express 5, MongoDB (Mongoose), React 19 (Vite), Tailwind CSS, shadcn/ui, Framer Motion and Lucide icons.
 
-- **Live demo:** _add your deployed URL here after deploying (see [Deployment](#deployment))_
+- **Live demo:** https://helpdesk-ticket-system-pied.vercel.app (see [Deployment](#deployment))_
 - **API docs:** [`postman/Helpdesk.postman_collection.json`](postman/Helpdesk.postman_collection.json) + the [endpoint table](#api-reference) below
 - **Demo accounts** (after `npm run seed`):
 
